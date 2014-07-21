@@ -1,0 +1,261 @@
+// !$*UTF8*$!
+{
+	11881029152C1002002E895D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PassWordViewController.h */;
+		name = "PassWordViewController.h: 20";
+		rLen = 0;
+		rLoc = 474;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 0;
+	};
+	11881032152C133D002E895D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PassWordViewController.m */;
+		name = "PassWordViewController.m: 24";
+		rLen = 0;
+		rLoc = 530;
+		rType = 0;
+		vrLen = 1440;
+		vrLoc = 32;
+	};
+	1188103E152C14B6002E895D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11CD16B5152B007400377FD9 /* LogViewController.m */;
+		name = "LogViewController.m: 38";
+		rLen = 0;
+		rLoc = 1215;
+		rType = 0;
+		vrLen = 1505;
+		vrLoc = 141;
+	};
+	1188103F152C14B6002E895D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11CD16B4152B007400377FD9 /* LogViewController.h */;
+		name = "LogViewController.h: 25";
+		rLen = 0;
+		rLoc = 606;
+		rType = 0;
+		vrLen = 612;
+		vrLoc = 0;
+	};
+	11881040152C14B6002E895D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11CD1636152AF4A800377FD9 /* SFHFKeychainUtils.m */;
+		name = "SFHFKeychainUtils.m: 255";
+		rLen = 0;
+		rLoc = 8116;
+		rType = 0;
+		vrLen = 1247;
+		vrLoc = 0;
+	};
+	11881041152C14B6002E895D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11CD1635152AF4A800377FD9 /* SFHFKeychainUtils.h */;
+		name = "SFHFKeychainUtils.h: 5";
+		rLen = 0;
+		rLoc = 74;
+		rType = 0;
+		vrLen = 655;
+		vrLoc = 0;
+	};
+	11881042152C14B6002E895D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PassWordAppDelegate.m */;
+		name = "PassWordAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 642;
+		rType = 0;
+		vrLen = 1288;
+		vrLoc = 0;
+	};
+	11881043152C14B6002E895D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PassWordAppDelegate.h */;
+		name = "PassWordAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 132;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 0;
+	};
+	11881044152C14B6002E895D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PassWordAppDelegate.h */;
+		name = "PassWordAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 0;
+	};
+	11CD1629152AF47500377FD9 /* PassWord */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PassWord;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	11CD1633152AF49400377FD9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	11CD1634152AF49400377FD9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	11CD1635152AF4A800377FD9 /* SFHFKeychainUtils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1500, 782}}";
+			sepNavSelRange = "{74, 0}";
+			sepNavVisRange = "{0, 655}";
+		};
+	};
+	11CD1636152AF4A800377FD9 /* SFHFKeychainUtils.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1204, 7980}}";
+			sepNavSelRange = "{8116, 0}";
+			sepNavVisRange = "{0, 1247}";
+			sepNavWindowFrame = "{{38, 273}, {1278, 1119}}";
+		};
+	};
+	11CD16B4152B007400377FD9 /* LogViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1043, 782}}";
+			sepNavSelRange = "{606, 0}";
+			sepNavVisRange = "{0, 612}";
+		};
+	};
+	11CD16B5152B007400377FD9 /* LogViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1478, 1710}}";
+			sepNavSelRange = "{1215, 0}";
+			sepNavVisRange = "{141, 1505}";
+			sepNavWindowFrame = "{{1000, 299}, {1278, 1119}}";
+		};
+	};
+	1D3623240D0F684500981E51 /* PassWordAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1043, 805}}";
+			sepNavSelRange = "{261, 0}";
+			sepNavVisRange = "{0, 474}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PassWordAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1596}}";
+			sepNavSelRange = "{642, 0}";
+			sepNavVisRange = "{0, 1288}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PassWord */ = {
+		activeExec = 0;
+		executables = (
+			11CD1629152AF47500377FD9 /* PassWord */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PassWordViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1043, 782}}";
+			sepNavSelRange = "{474, 0}";
+			sepNavVisRange = "{0, 481}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PassWordViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1478, 1482}}";
+			sepNavSelRange = "{530, 0}";
+			sepNavVisRange = "{32, 1440}";
+			sepNavWindowFrame = "{{1179, 208}, {1278, 1119}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 11CD1629152AF47500377FD9 /* PassWord */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PassWord */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PassWord */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 11CD1634152AF49400377FD9 /* Code sense */;
+		executables = (
+			11CD1629152AF47500377FD9 /* PassWord */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					865,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 355208540;
+			PBXWorkspaceStateSaveDate = 355208540;
+		};
+		perUserProjectItems = {
+			11881029152C1002002E895D /* PBXTextBookmark */ = 11881029152C1002002E895D /* PBXTextBookmark */;
+			11881032152C133D002E895D /* PBXTextBookmark */ = 11881032152C133D002E895D /* PBXTextBookmark */;
+			1188103E152C14B6002E895D /* PBXTextBookmark */ = 1188103E152C14B6002E895D /* PBXTextBookmark */;
+			1188103F152C14B6002E895D /* PBXTextBookmark */ = 1188103F152C14B6002E895D /* PBXTextBookmark */;
+			11881040152C14B6002E895D /* PBXTextBookmark */ = 11881040152C14B6002E895D /* PBXTextBookmark */;
+			11881041152C14B6002E895D /* PBXTextBookmark */ = 11881041152C14B6002E895D /* PBXTextBookmark */;
+			11881042152C14B6002E895D /* PBXTextBookmark */ = 11881042152C14B6002E895D /* PBXTextBookmark */;
+			11881043152C14B6002E895D /* PBXTextBookmark */ = 11881043152C14B6002E895D /* PBXTextBookmark */;
+			11881044152C14B6002E895D /* PBXTextBookmark */ = 11881044152C14B6002E895D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 11CD1633152AF49400377FD9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

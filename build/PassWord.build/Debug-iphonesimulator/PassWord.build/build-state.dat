@@ -1,0 +1,369 @@
+TPassWord
+v7
+r0
+t355210371.364134
+cCheck dependencies
+cProcessInfoPlistFile /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/Info.plist PassWord-Info.plist
+cCompileXIB /Users/njcit/Desktop/PassWord/MainWindow.xib
+cCompileXIB /Users/njcit/Desktop/PassWord/PassWordViewController.xib
+cCompileXIB /Users/njcit/Desktop/PassWord/LogViewController.xib
+cProcessPCH /var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch.gch PassWord_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/main.o /Users/njcit/Desktop/PassWord/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordAppDelegate.o /Users/njcit/Desktop/PassWord/Classes/PassWordAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordViewController.o /Users/njcit/Desktop/PassWord/Classes/PassWordViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/SFHFKeychainUtils.o /Users/njcit/Desktop/PassWord/Classes/../SFHFKeychainUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/LogViewController.o /Users/njcit/Desktop/PassWord/Classes/LogViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord normal i386
+cGenerateDSYMFile /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app.dSYM /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord
+cTouch /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004C5A4CC000000000000004F5
+t1280986304
+s1269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004C5A4CC40000000000088220
+t1280986308
+s557600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/njcit/Desktop/PassWord/Classes/../SFHFKeychainUtils.m
+c000000004F7ABD91000000000000327B
+t1333443985
+s12923
+i"SFHFKeychainUtils.h"
+i<Security/Security.h>
+
+N/Users/njcit/Desktop/PassWord/Classes/LogViewController.h
+c000000004F7BDAF90000000000000264
+t1333517049
+s612
+i<UIKit/UIKit.h>
+
+N/Users/njcit/Desktop/PassWord/Classes/LogViewController.m
+c000000004F7BDC500000000000000B8F
+t1333517392
+s2959
+i"LogViewController.h"
+i"SFHFKeychainUtils.h"
+i"PassWordViewController.h"
+
+N/Users/njcit/Desktop/PassWord/Classes/PassWordAppDelegate.h
+c000000004F7BDD0200000000000001DA
+t1333517570
+s474
+i<UIKit/UIKit.h>
+
+N/Users/njcit/Desktop/PassWord/Classes/PassWordAppDelegate.m
+c000000004F7ABCF50000000000000A88
+t1333443829
+s2696
+i"PassWordAppDelegate.h"
+i"PassWordViewController.h"
+
+N/Users/njcit/Desktop/PassWord/Classes/PassWordViewController.h
+c000000004F7BD85B00000000000001E1
+t1333516379
+s481
+i<UIKit/UIKit.h>
+
+N/Users/njcit/Desktop/PassWord/Classes/PassWordViewController.m
+c000000004F7BD881000000000000099D
+t1333516417
+s2461
+i"PassWordViewController.h"
+i"SFHFKeychainUtils.h"
+i"LogViewController.h"
+
+N/Users/njcit/Desktop/PassWord/LogViewController.xib
+c000000004F7BDBC20000000000007BC2
+t1333517250
+s31682
+
+N/Users/njcit/Desktop/PassWord/MainWindow.xib
+c000000004F7ABCF50000000000004E35
+t1333443829
+s20021
+
+N/Users/njcit/Desktop/PassWord/PassWordViewController.xib
+c000000004F7AC09300000000000072D4
+t1333444755
+s29396
+
+N/Users/njcit/Desktop/PassWord/PassWord_Prefix.pch
+c000000004F7ABCF500000000000000B9
+t1333443829
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/njcit/Desktop/PassWord/SFHFKeychainUtils.h
+c000000004F7ABD5E000000000000028F
+t1333443934
+s655
+i<UIKit/UIKit.h>
+
+N/Users/njcit/Desktop/PassWord/SFHFKeychainUtils.m
+c000000004F7ABD91000000000000327B
+t1333443985
+s12923
+i"SFHFKeychainUtils.h"
+i<Security/Security.h>
+
+N/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app
+t1333517571
+s272
+
+N/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app.dSYM
+t1333517571
+s102
+
+N/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/Info.plist
+t1333443934
+s595
+
+N/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/LogViewController.nib
+t1333517256
+s4819
+
+N/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/MainWindow.nib
+t1333443935
+s1683
+
+N/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord
+t1333517571
+s31076
+
+N/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWordViewController.nib
+t1333444850
+s4625
+
+N/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PkgInfo
+t1333443934
+s8
+
+N/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/LogViewController.o
+t1333517393
+s49580
+
+N/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWord.LinkFileList
+c000000004F7ACC7E000000000000027A
+t1333447806
+s634
+
+N/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordAppDelegate.o
+t1333517571
+s47892
+
+N/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordViewController.o
+t1333517242
+s47796
+
+N/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/SFHFKeychainUtils.o
+t1333444683
+s18864
+
+N/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/main.o
+t1333443935
+s6284
+
+N/Users/njcit/Desktop/PassWord/main.m
+c000000004F7ABCF50000000000000162
+t1333443829
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch.gch
+t1333443935
+s15211536
+
+NPassWord-Info.plist
+c000000004F7ABCF5000000000000038D
+t1333443829
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355210371#355210371#0(0"0(0#1#0"8612529568#0"0#
+
+CCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/LogViewController.o /Users/njcit/Desktop/PassWord/Classes/LogViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355210193.488960
+e355210193.580359
+r1
+xCompileC
+xbuild/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/LogViewController.o
+x/Users/njcit/Desktop/PassWord/Classes/LogViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/njcit/Desktop/PassWord/Classes/LogViewController.m355210193#355210193#0(0"0(0#0#57"/Users/njcit/Desktop/PassWord/Classes/LogViewController.m8613344288#1869"    cd /Users/njcit/Desktop/PassWord    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-generated-files.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-own-target-headers.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-all-target-headers.hmap -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-project-headers.hmap -F/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator -I/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/include -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources/i386 -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources -include /var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch -c /Users/njcit/Desktop/PassWord/Classes/LogViewController.m -o /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/LogViewController.o0#
+
+CCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordAppDelegate.o /Users/njcit/Desktop/PassWord/Classes/PassWordAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355210371.283950
+e355210371.330326
+r1
+xCompileC
+xbuild/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordAppDelegate.o
+x/Users/njcit/Desktop/PassWord/Classes/PassWordAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/njcit/Desktop/PassWord/Classes/PassWordAppDelegate.m355210371#355210371#0(0"0(0#0#59"/Users/njcit/Desktop/PassWord/Classes/PassWordAppDelegate.m8613136320#1873"    cd /Users/njcit/Desktop/PassWord    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-generated-files.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-own-target-headers.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-all-target-headers.hmap -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-project-headers.hmap -F/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator -I/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/include -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources/i386 -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources -include /var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch -c /Users/njcit/Desktop/PassWord/Classes/PassWordAppDelegate.m -o /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordAppDelegate.o0#
+
+CCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordViewController.o /Users/njcit/Desktop/PassWord/Classes/PassWordViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355210042.793222
+e355210042.846783
+r1
+xCompileC
+xbuild/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordViewController.o
+x/Users/njcit/Desktop/PassWord/Classes/PassWordViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/njcit/Desktop/PassWord/Classes/PassWordViewController.m355210042#355210042#0(0"0(0#0#62"/Users/njcit/Desktop/PassWord/Classes/PassWordViewController.m8617073376#1879"    cd /Users/njcit/Desktop/PassWord    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-generated-files.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-own-target-headers.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-all-target-headers.hmap -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-project-headers.hmap -F/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator -I/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/include -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources/i386 -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources -include /var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch -c /Users/njcit/Desktop/PassWord/Classes/PassWordViewController.m -o /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWordViewController.o0#
+
+CCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/SFHFKeychainUtils.o /Users/njcit/Desktop/PassWord/Classes/../SFHFKeychainUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355137483.665097
+e355137483.778537
+r1
+xCompileC
+xbuild/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/SFHFKeychainUtils.o
+x/Users/njcit/Desktop/PassWord/Classes/../SFHFKeychainUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/njcit/Desktop/PassWord/Classes/../SFHFKeychainUtils.m355137483#355137483#0(0"0(0#0#60"/Users/njcit/Desktop/PassWord/Classes/../SFHFKeychainUtils.m8616474656#1872"    cd /Users/njcit/Desktop/PassWord    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-generated-files.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-own-target-headers.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-all-target-headers.hmap -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-project-headers.hmap -F/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator -I/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/include -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources/i386 -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources -include /var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch -c /Users/njcit/Desktop/PassWord/Classes/../SFHFKeychainUtils.m -o /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/SFHFKeychainUtils.o0#
+
+CCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/SFHFKeychainUtils.o /Users/njcit/Desktop/PassWord/SFHFKeychainUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355136786.155613
+e355136786.256516
+r1
+xCompileC
+xbuild/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/SFHFKeychainUtils.o
+x/Users/njcit/Desktop/PassWord/SFHFKeychainUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/njcit/Desktop/PassWord/SFHFKeychainUtils.m355136786#355136786#0(0"0(0#0#49"/Users/njcit/Desktop/PassWord/SFHFKeychainUtils.m8602625568#1861"    cd /Users/njcit/Desktop/PassWord    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-generated-files.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-own-target-headers.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-all-target-headers.hmap -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-project-headers.hmap -F/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator -I/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/include -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources/i386 -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources -include /var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch -c /Users/njcit/Desktop/PassWord/SFHFKeychainUtils.m -o /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/SFHFKeychainUtils.o0#
+
+CCompileC build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/main.o /Users/njcit/Desktop/PassWord/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355136735.840307
+e355136735.897753
+r1
+xCompileC
+xbuild/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/main.o
+x/Users/njcit/Desktop/PassWord/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/njcit/Desktop/PassWord/main.m355136735#355136735#0(0"0(0#0#36"/Users/njcit/Desktop/PassWord/main.m8629053824#1835"    cd /Users/njcit/Desktop/PassWord    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-generated-files.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-own-target-headers.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-all-target-headers.hmap -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-project-headers.hmap -F/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator -I/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/include -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources/i386 -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources -include /var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch -c /Users/njcit/Desktop/PassWord/main.m -o /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/njcit/Desktop/PassWord/LogViewController.xib
+s355210055.752871
+e355210056.171585
+r1
+xCompileXIB
+x/Users/njcit/Desktop/PassWord/LogViewController.xib
+lSLF07#2@32"CompileXIB LogViewController.xib355210055#355210056#0(0"0(0#0#51"/Users/njcit/Desktop/PassWord/LogViewController.xib8616456992#558"    cd /Users/njcit/Desktop/PassWord    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/LogViewController.nib /Users/njcit/Desktop/PassWord/LogViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/njcit/Desktop/PassWord/MainWindow.xib
+s355136734.902705
+e355136735.246324
+r1
+xCompileXIB
+x/Users/njcit/Desktop/PassWord/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib355136734#355136735#0(0"0(0#0#44"/Users/njcit/Desktop/PassWord/MainWindow.xib8624314976#544"    cd /Users/njcit/Desktop/PassWord    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/MainWindow.nib /Users/njcit/Desktop/PassWord/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/njcit/Desktop/PassWord/PassWordViewController.xib
+s355137649.981451
+e355137650.635300
+r1
+xCompileXIB
+x/Users/njcit/Desktop/PassWord/PassWordViewController.xib
+lSLF07#2@37"CompileXIB PassWordViewController.xib355137649#355137650#0(0"0(0#0#56"/Users/njcit/Desktop/PassWord/PassWordViewController.xib8626117536#568"    cd /Users/njcit/Desktop/PassWord    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWordViewController.nib /Users/njcit/Desktop/PassWord/PassWordViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app.dSYM /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord
+s355210371.348281
+e355210371.362171
+r1
+xGenerateDSYMFile
+x/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app.dSYM
+x/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/PassWord.app.dSYM build/Debug-iphonesimulator/PassWord.app/PassWord355210371#355210371#0(0"0(0#0#79"/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord8615981696#359"    cd /Users/njcit/Desktop/PassWord    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord -o /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app.dSYM0#
+
+CLd /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord normal i386
+s355210371.330411
+e355210371.348199
+r1
+xLd
+x/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord
+xnormal
+xi386
+lSLF07#2@84"Link /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord355210371#355210371#0(0"0(0#0#0"8616690272#880"    cd /Users/njcit/Desktop/PassWord    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator -F/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator -filelist /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/Objects-normal/i386/PassWord.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework Security -o /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PassWord0#
+
+CProcessInfoPlistFile /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/Info.plist PassWord-Info.plist
+s355136734.898580
+e355136734.902640
+r1
+xProcessInfoPlistFile
+x/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/Info.plist
+xPassWord-Info.plist
+lSLF07#2@27"Process PassWord-Info.plist355136734#355136734#0(0"0(0#0#49"/Users/njcit/Desktop/PassWord/PassWord-Info.plist8625417824#455"    cd /Users/njcit/Desktop/PassWord    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PassWord-Info.plist -genpkginfo /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app/Info.plist0#
+
+CProcessPCH /var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch.gch PassWord_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s355136735.246550
+e355136735.840173
+r1
+xProcessPCH
+x/var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch.gch
+xPassWord_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile PassWord_Prefix.pch355136735#355136735#0(0"0(0#0#49"/Users/njcit/Desktop/PassWord/PassWord_Prefix.pch8618888512#1735"    cd /Users/njcit/Desktop/PassWord    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-generated-files.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-own-target-headers.hmap -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-all-target-headers.hmap -iquote /Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/PassWord-project-headers.hmap -F/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator -I/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/include -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources/i386 -I/Users/njcit/Desktop/PassWord/build/PassWord.build/Debug-iphonesimulator/PassWord.build/DerivedSources -c /Users/njcit/Desktop/PassWord/PassWord_Prefix.pch -o /var/folders/dv/dvCFd0UnGDiyb0yQaK1EhE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PassWord_Prefix-appszneqadfypgbelffpsbmucclk/PassWord_Prefix.pch.gch0#
+
+CTouch /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app
+s355210371.362251
+e355210371.364110
+r1
+xTouch
+x/Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app
+lSLF07#2@76"Touch /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app355210371#355210371#0(0"0(0#0#0"8615906784#261"    cd /Users/njcit/Desktop/PassWord    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/njcit/Desktop/PassWord/build/Debug-iphonesimulator/PassWord.app0#
+
